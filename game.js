@@ -254,7 +254,7 @@ function complete(){
     context.fillText("Congrats! You've Won", canvas.width/2, canvas.height/2);
 
     context.font = "20px Arial";
-    context.fillText("Press space to Play Again", canvas.width/2, canvas.height/2);
+    context.fillText("Press space to Play Again", canvas.width/2, canvas.height/5);
 }
 
 function reset(){
