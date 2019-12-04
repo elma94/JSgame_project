@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Platformer game</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div id="background"></div>
+    <div id="sidebar">
+    <button id="playpause" type="button" name="playButton" onclick="setPlayPause()">Play music</button>
+    <audio src="sounds/Lost-Jungle_Looping.mp3" id="audio" ></audio>
+        <span>To start</span>
+        <img id="space" src="images/space.png">
+        <span>To move</span>
+        <img id="arrows" src="images/arrows.jpg">
+    </div>
+    <canvas id="game" width="800" height="400"></canvas>
+    <script type="text/javascript" src="game.js"></script>
+</body>
+</html>
