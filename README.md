@@ -12,6 +12,11 @@ Biggest challenge for me as a newbie in web development, was to write proper fun
 * Game title: __Bring T-Rex home game__
 * Project technologies: __HTML5, CSS, Vanilla Javascript__
 * Project status: __finished__
-* Devices: __desktop__
+* Devices: __desktop__ (works best on lower resolution displays)
+
+<img src="Platformer game.gif" 
+raw=true
+alt="portfolio design"/>
+
 
 by Elma Mehmedić
