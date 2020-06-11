@@ -16,13 +16,11 @@ body{
 
 #background{
 	width:800px;
-	height:600px;
+	height:100vh;
 	position:absolute;
-	top:50%;
-	left:50%;
-	margin-left:-400px;
-	margin-top:-300px;
-	background-image:url("images/bacground_intro.png");
+	top:0%;
+	left:20%;
+	background-image:url("images/background_intro.png");
 	background-repeat: repeat;
 	z-index:-1;
 }
