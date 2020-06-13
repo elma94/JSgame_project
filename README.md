@@ -16,7 +16,7 @@ Biggest challenge for me as a newbie in web development, was to write proper fun
 
 <img src="Platformer game.gif" 
 raw=true
-alt="portfolio design"/>
+alt="platformer game gif"/>
 
 
 by Elma Mehmedić
